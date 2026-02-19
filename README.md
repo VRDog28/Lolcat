@@ -4,7 +4,8 @@ Written in C
 
 # Screenshot
 
-![](https://github.com/VRDog28/Lolcat/raw/master/screenshot.png)
+![](https://github.com/VRDog28/Lolcat/blob/main/screenshot2.png)
+![](https://github.com/VRDog28/Lolcat/blob/main/screenshot3.png)
 
 ## How to use
 
