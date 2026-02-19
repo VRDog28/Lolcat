@@ -2,7 +2,7 @@
 
 Written in C
 
-# Screenshot
+## Screenshot
 
 ![](https://github.com/VRDog28/Lolcat/blob/main/screenshot2.png)
 ![](https://github.com/VRDog28/Lolcat/blob/main/screenshot3.png)
@@ -14,5 +14,5 @@ $ <Command> | lolcat
 ```
 
 ```cmd
-$ dir | lolcat
+$ dir | lolcat <preset 1 - 4>
 ```
