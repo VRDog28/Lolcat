@@ -2,7 +2,7 @@
 
 Written in C
 
-## Screenshot
+## Screenshots
 
 ![](https://github.com/VRDog28/Lolcat/blob/main/screenshot2.png)
 ![](https://github.com/VRDog28/Lolcat/blob/main/screenshot3.png)
